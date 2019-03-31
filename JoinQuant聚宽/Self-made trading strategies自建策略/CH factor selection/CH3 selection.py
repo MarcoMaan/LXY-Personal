@@ -1,5 +1,5 @@
-#CH4 selection 
-
+#CH3 selection 
+#该策略为三因子策略，须大调整，以文件夹中 CH4 selection 策略为准
 
 import statsmodels.api as sm
 from statsmodels import regression
